@@ -1,0 +1,9 @@
+div,
+p {
+  color: white;
+}
+
+p,
+button {
+  font-size: 18px;
+}
